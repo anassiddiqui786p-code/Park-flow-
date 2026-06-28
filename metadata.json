@@ -1,0 +1,6 @@
+{
+  "name": "ParkFlow",
+  "description": "Smart Parking Management System with role-based access for Parkers and Landowners, live booking, slot tracking, QR entry/exit, and real-time revenue reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
